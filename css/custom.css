@@ -1,0 +1,36 @@
+.box {
+  border: 1px solid #ffffff !important;
+}
+
+.center {
+  text-align: center;
+}
+
+.highlight {
+  color: orange;
+}
+
+.reveal .slides section img {
+  margin: 15px 30px;
+}
+
+.reveal .slides section .fragment .top-left {
+  position: absolute;
+  top: -200%;
+  left: -50%;
+}
+
+table.small {
+  font-size: 80%;
+}
+
+table td.highlight {
+  width: 100px;
+}
+
+table.with-border {
+  border: 1px solid #ffffff;
+}
+table.with-border td {
+  border: 1px solid #ffffff;
+}
